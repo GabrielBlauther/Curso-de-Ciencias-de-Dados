@@ -1,0 +1,5 @@
+venv
+.vscode
+miniconda3/
+.conda/
+scriptsUteis.txt
