@@ -90,13 +90,13 @@ import plotly.express as px  # Visualização interativa
 - Análise temporal e sazonalidade
 - KPIs e métricas de performance
 
-## 🎯 Aprendizado e Desenvolvimento
+## 🎯 Resultados e Impacto
 
-- ✅ **Fundamentos sólidos** em Python para Data Science
-- ✅ **Experiência prática** com NumPy, Pandas e bibliotecas de visualização
-- ✅ **Projetos aplicados** em análise bancária, automotiva e vendas
-- ✅ **Competências em EDA** e storytelling com dados
-- ✅ **Base técnica** para evolução em Machine Learning
+- ✅ **100+ exercícios práticos** resolvidos
+- ✅ **5 projetos completos** de análise de dados
+- ✅ **Domínio das principais bibliotecas** Python para Data Science
+- ✅ **Portfolio robusto** demonstrando competências técnicas
+- ✅ **Metodologia EDA** aplicada em casos reais
 
 ## 🔧 Como Executar
 
@@ -120,12 +120,10 @@ jupyter notebook
 
 ## 🤝 Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black.svg)](https://github.com/seu-usuario)
-[![Email](https://img.shields.io/badge/Email-Contact-red.svg)](mailto:seu-email@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://linkedin.com/in/GabrielBlauther)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black.svg)](https://github.com/GabrielBlauther)
+[![Email](https://img.shields.io/badge/Email-Contact-red.svg)](mailto:gblauther@gmail.com)
 
 ---
 
 > 💡 **"Transformando dados em insights, insights em decisões, decisões em valor."**
-
-*Este repositório representa minha dedicação ao aprendizado contínuo em Data Science e demonstra competências técnicas sólidas para oportunidades profissionais na área.*
