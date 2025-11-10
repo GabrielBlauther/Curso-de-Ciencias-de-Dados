@@ -111,13 +111,6 @@ pip install numpy pandas matplotlib seaborn plotly jupyter
 jupyter notebook
 ```
 
-## 📈 Próximos Passos
-
-- [ ] Machine Learning com Scikit-learn
-- [ ] Deep Learning com TensorFlow/PyTorch
-- [ ] Big Data com PySpark
-- [ ] Deploy de modelos em produção
-
 ## 🤝 Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://linkedin.com/in/GabrielBlauther)
